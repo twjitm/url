@@ -36,6 +36,8 @@ http://www.cnblogs.com/xdp-gacl/p/4051690.html
 
 ## 破解idea2017地址
 http://blog.csdn.net/zhangwenwu2/article/details/54948959
+## java 多线程讲解
+http://blog.csdn.net/yegongheng/article/details/38708765
 
 
 ## git子模块的操作 
