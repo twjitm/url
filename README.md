@@ -68,3 +68,6 @@ http://blog.csdn.net/boyxiaolong/article/details/17187247
 
 ## java类初始化讲解
 http://www.cnblogs.com/javaee6/p/3714716.html
+
+### spring 监听器加载bean的几种方式
+http://blog.csdn.net/eson_15/article/details/51373937
