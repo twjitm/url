@@ -71,3 +71,6 @@ http://www.cnblogs.com/javaee6/p/3714716.html
 
 ### spring 监听器加载bean的几种方式
 http://blog.csdn.net/eson_15/article/details/51373937
+
+###  Linux Tomcat日志查看实用命令
+http://blog.csdn.net/zhangdaiscott/article/details/48623913
