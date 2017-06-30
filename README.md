@@ -38,8 +38,8 @@ http://www.cnblogs.com/xdp-gacl/p/4051690.html
 http://blog.csdn.net/zhangwenwu2/article/details/54948959
 ## java 多线程讲解
 http://blog.csdn.net/yegongheng/article/details/38708765
-
-
+## java 原生NIO
+http://www.cnblogs.com/xujian2014/p/5657540.html
 ## git子模块的操作 
 https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97
 
