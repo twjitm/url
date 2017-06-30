@@ -77,3 +77,8 @@ http://blog.csdn.net/zhangdaiscott/article/details/48623913
 
 ### netty较好的说明文章
 http://www.cnblogs.com/jietang/p/5615681.html
+
+### netty入门demo
+ http://www.cnblogs.com/xujian2014/p/5704316.html
+ ### netty数据结构 
+ http://www.cnblogs.com/davidwang456/p/4292624.html
