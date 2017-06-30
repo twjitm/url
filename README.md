@@ -74,3 +74,6 @@ http://blog.csdn.net/eson_15/article/details/51373937
 
 ###  Linux Tomcat日志查看实用命令
 http://blog.csdn.net/zhangdaiscott/article/details/48623913
+
+### netty较好的说明文章
+http://www.cnblogs.com/jietang/p/5615681.html
