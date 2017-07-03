@@ -82,3 +82,6 @@ http://www.cnblogs.com/jietang/p/5615681.html
  http://www.cnblogs.com/xujian2014/p/5704316.html
  ### netty数据结构 
  http://www.cnblogs.com/davidwang456/p/4292624.html
+ 
+ ### tomcat启动解析
+ http://www.cnblogs.com/softlin/p/4149617.html
