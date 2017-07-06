@@ -89,3 +89,6 @@ http://www.cnblogs.com/jietang/p/5615681.html
 http://blog.csdn.net/niucsd/article/details/50966733
 ### zookeeper使用指南
 http://www.cnblogs.com/ggjucheng/p/3370359.html
+
+### zookeeper配置
+http://blog.csdn.net/catoop/article/details/50848555
