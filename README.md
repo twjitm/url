@@ -92,3 +92,5 @@ http://www.cnblogs.com/ggjucheng/p/3370359.html
 
 ### zookeeper配置
 http://blog.csdn.net/catoop/article/details/50848555
+### 虚拟机网络配置
+http://blog.csdn.net/shuxiao9058/article/details/7051463
