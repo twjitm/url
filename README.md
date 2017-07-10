@@ -94,3 +94,5 @@ http://www.cnblogs.com/ggjucheng/p/3370359.html
 http://blog.csdn.net/catoop/article/details/50848555
 ### 虚拟机网络配置
 http://blog.csdn.net/shuxiao9058/article/details/7051463
+### java编发编程讲解
+http://www.cnblogs.com/skywang12345/p/3496101.html
