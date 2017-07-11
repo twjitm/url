@@ -98,3 +98,5 @@ http://blog.csdn.net/shuxiao9058/article/details/7051463
 http://www.cnblogs.com/skywang12345/p/3496101.html
 ### Disruptor 极速体验
 http://www.cnblogs.com/haiq/p/4112689.html
+### gitignore
+https://www.gitignore.io/
