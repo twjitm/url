@@ -103,3 +103,6 @@ https://www.gitignore.io/
 
 ### 多线程锁的问题
 http://www.cnblogs.com/skywang12345/p/3496101.html
+
+### linux redis 安装和使用
+http://www.jb51.net/article/101508.htm
