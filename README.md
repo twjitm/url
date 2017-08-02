@@ -87,6 +87,8 @@ http://www.cnblogs.com/jietang/p/5615681.html
  http://www.cnblogs.com/softlin/p/4149617.html
 ### redis详解 Redis 应用场景及应用实例
 http://blog.csdn.net/niucsd/article/details/50966733
+### redis学习，有它就够了（总结得不错的文章）
+http://www.cnblogs.com/edisonfeng/p/3571870.html
 ### zookeeper使用指南
 http://www.cnblogs.com/ggjucheng/p/3370359.html
 
