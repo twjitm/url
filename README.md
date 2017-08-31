@@ -110,3 +110,5 @@ http://www.cnblogs.com/skywang12345/p/3496101.html
 http://www.jb51.net/article/101508.htm
 ### linux 安装使用mysql
 http://blog.csdn.net/jerome_s/article/details/52883234
+### Linux 安装redis步骤
+http://blog.csdn.net/ludonqin/article/details/47211109
