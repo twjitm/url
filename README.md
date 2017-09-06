@@ -112,3 +112,5 @@ http://www.jb51.net/article/101508.htm
 http://blog.csdn.net/jerome_s/article/details/52883234
 ### Linux 安装redis步骤
 http://blog.csdn.net/ludonqin/article/details/47211109
+### github上不错的游戏服务器框架
+https://www.zhihu.com/question/25484947
