@@ -114,3 +114,6 @@ http://blog.csdn.net/jerome_s/article/details/52883234
 http://blog.csdn.net/ludonqin/article/details/47211109
 ### github上不错的游戏服务器框架
 https://www.zhihu.com/question/25484947
+###----------MAC系统------------------------------------------------------
+###MAC下redis操作
+http://www.cnblogs.com/shoren/p/redis.html
