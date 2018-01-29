@@ -118,6 +118,8 @@ https://www.zhihu.com/question/25484947
 http://www.cnblogs.com/TomSnail/p/6129235.html
 ### 正则表达
 http://www.jb51.net/tools/zhengze.html
+### B树
+http://blog.csdn.net/u012658346/article/details/51253017
 
 ###----------MAC系统------------------------------------------------------
 ###MAC下redis操作
