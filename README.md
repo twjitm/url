@@ -120,6 +120,8 @@ http://www.cnblogs.com/TomSnail/p/6129235.html
 http://www.jb51.net/tools/zhengze.html
 ### B树
 http://blog.csdn.net/u012658346/article/details/51253017
+## 阿里巴巴大佬博客
+https://juejin.im/user/59759784f265da6c2b76c24b
 
 ###----------MAC系统------------------------------------------------------
 ###MAC下redis操作
